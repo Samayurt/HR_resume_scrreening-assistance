@@ -3,7 +3,7 @@ LLM_PROJECT
 
 
 
-Automated Resume Screening:
+**Automated Resume Screening:**
 
 Allows HR professionals to upload job descriptions and resumes.
 
@@ -12,7 +12,7 @@ The system analyzes resumes and matches candidate profiles with job requirements
 
 
 
-Efficient Data Processing:
+**Efficient Data Processing:**
 
 Extracts text from PDF resumes.
 
@@ -22,7 +22,7 @@ Uses embeddings to represent text, improving data processing.
 
 
 
-Enhanced Document Retrieval:
+**Enhanced Document Retrieval:**
 
 Stores resumes in a Pinecone vector store.
 
@@ -30,8 +30,7 @@ Quickly finds relevant resumes based on user searches.
 
 
 
-
-Document Similarity Analysis:
+**Document Similarity Analysis:**
 
 Compares resumes to job descriptions.
 
@@ -42,7 +41,7 @@ Helps HR efficiently screen and select candidates.
 
 
 
-Document Summarization:
+**Document Summarization:**
 
 Generates short summaries of resumes.
 
@@ -51,7 +50,7 @@ Provides HR with quick insights into candidate qualifications.
 
 
 
-User-Friendly Interface:
+**User-Friendly Interface:**
 
 Provides a simple Streamlit application.
 
